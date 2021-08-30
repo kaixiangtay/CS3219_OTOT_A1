@@ -15,4 +15,4 @@ docker-compose up -d
 
 Step 4: Open a new window in any browser and enter `http://localhost` or `http://localhost:5001`to load the static HTML webpage.
 
-Note: Repeat Steps 2, 3 whenever any changes is being made to the project so that Docker images can be rebuild and Docker container can be recreated. 
+**Note: Repeat Steps 2, 3 whenever any changes is being made to the project so that Docker images can be rebuild and Docker container can be recreated.**
