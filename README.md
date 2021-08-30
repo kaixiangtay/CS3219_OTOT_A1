@@ -1,0 +1,18 @@
+# CS3219_OTOT_Task_A1
+
+Step 1: Clone the project repository onto your local computer.
+
+Step 2: Inside the folder directory, execute the following command to build the docker images:
+
+```
+docker-compose build
+```
+
+Step 3: Next, execute the following command to  run the Docker container which contains the docker images:
+```
+docker-compose up -d
+```
+
+Step 4: Open a new window in any browser and enter `http://localhost` or `http://localhost:5001`to load the static HTML webpage.
+
+Note: Repeat Steps 2, 3 whenever any changes is being made to the project so that docker images can be rebuild and container can be recreated. 
