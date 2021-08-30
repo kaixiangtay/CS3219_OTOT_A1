@@ -1,4 +1,4 @@
-# CS3219_OTOT_Task_A1
+# CS3219_OTOT_TaskA1
 
 Step 1: Clone the project repository onto your local computer.
 
