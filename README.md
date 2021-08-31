@@ -1,5 +1,7 @@
 # CS3219_OTOT_TaskA1
 
+**Pre-requisites: Docker software installed on computer**
+
 Step 1: Clone the project repository onto your local computer.
 
 Step 2: Open up the Terminal and inside the project folder directory,
