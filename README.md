@@ -2,7 +2,8 @@
 
 Step 1: Clone the project repository onto your local computer.
 
-Step 2: Inside the folder directory, execute the following command to build the Docker images:
+Step 2: Open up the Terminal and inside the project folder directory,
+ execute the following command to build the Docker images:
 
 ```
 docker-compose build
